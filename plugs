@@ -1,0 +1,32 @@
+#!/bin/sh
+clear
+tput setaf 3
+echo "         WEED PLUGS  "
+echo " "
+tput setaf 6
+echo " spirro - (603) 724-8764"
+echo " "
+echo " Dewayne - (603) 387-9828"
+echo " "
+tput setaf 3
+echo " "
+echo "     TWEEK PLUGS "
+echo " "
+tput setaf 6
+echo " "
+echo " jamie sullivan - (603) 290-9010"
+echo " "
+echo " nancy turner -+1 (603) 848-0883"
+echo " "
+echo " rhiana frennete - (603) 333-5149"
+echo " "
+echo " chariry tweek 1- (603) 953-8113"
+echo " "
+tput setaf 3
+echo " "
+echo "       HOOKERS "
+echo " "
+tput setaf 6
+echo " charity see tweek pluga"
+echo " "
+echo "   Lynda baby mama-603-848-2653"
